@@ -82,7 +82,7 @@ The actions dropdown menu is clicked to select Attach policy:<br/>
 <img src="https://imagizer.imageshack.com/img924/8107/S2lKXI.png" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-The nicknamed account is selected and the polciy is attached:<br/>
+The nicknamed account is selected and the policy is attached:<br/>
 <img src="https://imagizer.imageshack.com/img923/9901/bH1Wo1.png" alt="Disk Sanitization Steps"/>
 <br />
 <br />
