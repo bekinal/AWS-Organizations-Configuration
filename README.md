@@ -48,11 +48,11 @@ After noting that the service control policies are enabled, Create policy is sel
 <img src="https://imagizer.imageshack.com/img922/3706/oOCKof.png" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-the policy is named EC2 Deny Management and a short desciption is provided:<br/>
+The policy is named EC2 Deny Management and a short desciption is provided:<br/>
 <img src="https://imagizer.imageshack.com/img922/970/3Ymmio.png" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Ec2 is selected, and All actions is checked. The Effect should be deny:<br/>
+EC2 is selected, and All actions is checked. The Effect should be deny:<br/>
 <img src="https://imagizer.imageshack.com/img924/9946/qY0IJ6.png" alt="Disk Sanitization Steps"/>
 <br />
 <br />
